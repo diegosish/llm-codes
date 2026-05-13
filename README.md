@@ -1,2 +1,3 @@
-# llm-codes
-Contenidos y códigos sobre Large Language Models (LLMs)
+# LLM-Codes
+
+Contents and codes about Large Language Models
